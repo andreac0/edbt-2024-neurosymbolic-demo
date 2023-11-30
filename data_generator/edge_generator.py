@@ -32,7 +32,7 @@ for i in range(len(df)):
         df.loc[i,'controller'] = x
     s.append(np.random.uniform(size = 1)[0])
 
-
+df['what'] = 'owns'
 df['share'] = s
 df = df[df['share']>0]
 
