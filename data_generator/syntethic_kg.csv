@@ -994,3 +994,17 @@ DrivetrainSystemsInternational,DHLAviation,0.32
 ChinaShandongInternationalEconomicTechnicalCooperationGroup,RelianceHealth,1.0
 Parisiandepartmentstore,Jacor,0.42
 KarlstadUniversityPress,TurnerBroadcastingSystemRomania,1.0
+USATrustBank,AlpineBank,0.56
+AlpineBank,BalticBank,0.62
+AlpineBank,DanubeWealthManagement,0.73
+AlpineBank,IberianBank,0.49
+DanubeWealthManagement,IberianBank,0.02
+IberianBank,MediterraneanBank,0.57
+DanubeWealthManagement,ColumbiaRecords,0.8
+USATrustBank,SamsungElectronics,0.58
+DanubeWealthManagement,USAutoParts,0.97
+DanubeWealthManagement,HolidayInn,0.46
+AlpineBank,Eni,0.89
+GlassboxTelevision,IberianBank,0.45
+CerberusCapitalManagement,AlpineBank,0.40
+USATrustBank,DTGroup,1.0
