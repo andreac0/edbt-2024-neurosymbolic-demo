@@ -1,5 +1,5 @@
 # EDBT 2024 Demonstration Submission
- This repository includes the KG data generator and the datasets that we use in the paper "" submitted to EDBT 2024 - Demo Track
+ This repository includes the KG data generator and the datasets that we use in the paper "``Please, Vadalog, tell me why'': Interactive Explanation of Datalog-based Reasoning" submitted to EDBT 2024 - Demo Track
 
 
 ## Synthetic KG Generator
